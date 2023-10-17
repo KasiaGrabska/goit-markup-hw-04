@@ -408,8 +408,7 @@ header {
     justify-content: center;
 }
 .social-link-items:hover,
-.social-link-items:focus, 
-.social-link-items:active {
+.social-link-items:focus {
     background-color: #404bbf;
 }
 .section-five {
