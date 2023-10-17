@@ -235,6 +235,7 @@ img {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
+    margin: 0 auto;
 }
 .title {
     max-width: 496px;
@@ -459,7 +460,7 @@ header {
     color: #FFFFFF;
     margin-bottom: 16px;
 }
-.social-links {
+.social-links-footer {
     display: flex;
     gap: 16px
 }
