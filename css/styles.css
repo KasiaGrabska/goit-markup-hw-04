@@ -392,11 +392,11 @@ header {
 .social-links {
     display: flex;
     justify-content: center;
-    gap: 24px;
 }
 .social {
     width: 40px;
     height: 40px;
+    gap: 24px;
 }
 .social-link-items {
     width: 100%;
@@ -406,10 +406,10 @@ header {
     display: flex;
     align-items: center;
     justify-content: center;
-    gap: 24px;
 }
 .social-link-items:hover,
-.social-link-items:focus {
+.social-link-items:focus, 
+.social-link-items:active {
     background-color: #404bbf;
 }
 .section-five {
