@@ -310,7 +310,9 @@ img {
 }
 .paragraph {
     text-align: center;
-    padding: 8px;
+}
+.margin-paragraph {
+    margin-bottom: 8px;
 }
 .background {
     padding: 100px 0;
